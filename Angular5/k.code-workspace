@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "e2e"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "node_modules"
+		}
+	]
+}
